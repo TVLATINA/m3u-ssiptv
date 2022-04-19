@@ -152,19 +152,19 @@ https://limited23.todostreaming.es/live/onesport-livestream.m3u8
 #EXTGRP:unsorted
 https://streaming-audio-1.magentalabs.es:19360/codigotv/codigotv.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rt.png" group-title="", RT |ESPAÑOL
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rt.png" group-title="", RT
 #EXTGRP:unsorted
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-dw.png" group-title="", DW |ESPAÑOL
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-dw.png" group-title="", DW
 #EXTGRP:unsorted
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-france24.png" group-title="", FRANCE 24 |ESPAÑOL
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-france24.png" group-title="", FRANCE 24
 #EXTGRP:unsorted
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-hispan-tv.png" group-title="", HISPAN TV |ESPAÑOL
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-hispan-tv.png" group-title="", HISPAN TV
 #EXTGRP:unsorted
 https://live.presstv.ir/live/live.smil/chunklist_w287376598_b644100_slen.m3u8
 
